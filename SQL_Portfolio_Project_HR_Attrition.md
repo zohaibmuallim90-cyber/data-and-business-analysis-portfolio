@@ -1,13 +1,13 @@
 Employee Attrition Analysis
 
-SQL Portfolio Project — Zohaib Muallim
+SQL Portfolio Project by Zohaib Muallim
 
 Overview
 
 I analysed the IBM HR Analytics Employee Attrition dataset using SQL to identify which factors are most strongly associated with employees leaving the company, and what an HR team could act on based on the findings.
 
-Tool used: SQLite (browser based SQL environment) Dataset: IBM HR Analytics Employee Attrition dataset (1,470 employee records covering department, role, pay, satisfaction, overtime, tenure and attrition status)
-
+Tool used: SQLite (browser based SQL environment)
+Dataset: IBM HR Analytics Employee Attrition dataset (1,470 employee records covering department, role, pay, satisfaction, overtime, tenure and attrition status)
 1. Attrition Rate by Department
 sql
 SELECT
@@ -79,7 +79,9 @@ Finding: Employees who left the company averaged 5.1 years of tenure, compared t
 Summary
 
 This analysis combined filtering, aggregation, multi-level grouping and conditional logic (CASE statements) to move from raw employee records to five practical findings on attrition. The clearest and most actionable signal is overtime, employees working overtime leave at nearly three times the rate of those who do not, alongside a genuine link between low job satisfaction and higher attrition. Attrition is also concentrated in Sales and HR rather than spread evenly, and employees who leave tend to do so a few years earlier in their tenure than those who stay. Together these findings point toward concrete areas an HR team could investigate further, workload and overtime policy in high attrition departments, and targeted retention efforts for employees showing low job satisfaction.
+Related
 
+Business analysis case study based on this project
+Related
 
-
-
+Business analysis case study based on this project
