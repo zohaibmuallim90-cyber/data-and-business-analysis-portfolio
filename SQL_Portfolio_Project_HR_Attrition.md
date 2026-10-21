@@ -80,26 +80,6 @@ Summary
 
 This analysis combined filtering, aggregation, multi-level grouping and conditional logic (CASE statements) to move from raw employee records to five practical findings on attrition. The clearest and most actionable signal is overtime, employees working overtime leave at nearly three times the rate of those who do not, alongside a genuine link between low job satisfaction and higher attrition. Attrition is also concentrated in Sales and HR rather than spread evenly, and employees who leave tend to do so a few years earlier in their tenure than those who stay. Together these findings point toward concrete areas an HR team could investigate further, workload and overtime policy in high attrition departments, and targeted retention efforts for employees showing low job satisfaction.
 
-Content
 
-PDF
 
-PDF
 
-PDF
-
-Act as a **senior hiring manager, executive recruiter, talent acquisition specialist, and career strategist** with 10+ years of experience hiring professionals and advising candidates on career progression. I will provide you with **my CV only**. I currently do NOT have a specific job title or ca
-
-PASTED
-
-# UAE Recruiter & Direct Company Job Search Prompt Act as my **senior recruitment consultant and job-search strategist specializing in the UAE market**, with strong knowledge of hiring practices in Dubai, Abu Dhabi, Sharjah, and the wider UAE. I will upload my CV/resume. Your job is to **an
-
-PASTED
-
-Sort by Close Filter CloseReset Where Sector Industry Type of contract Yearly salary (AED)Expand / collapse Min salary Salary min Max salary Salary max Investment Analyst - Investment Firm - Abu Dhabi International Permanent AED22,000 - AED28,000 per month (AED264,000 - AED3
-
-PASTED
-
-Data Analyst / Business Intelligence Ana... ID 4985 Posted 93 Days ago Job Location Dubai (Work From Office) Job Type Contract FinOps Analyst ID 5226 Posted 27 Days ago Job Location Abu Dhabi (Work From Office) Job Type Contract System Analyst ID 5146 Posted 34 Da
-
-PASTED
